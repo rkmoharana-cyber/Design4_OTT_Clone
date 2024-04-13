@@ -1,0 +1,27 @@
+Name - Ratikrishna Moharana
+Email - mratikrishna@gmail.com
+
+• Task Title: OTT Platform Website Clone
+
+•Task Description:
+	- Design and implement a responsive & functional OTT Platform named 	FreFlix.
+•Steps Taken:
+	- Identified elements to include all the pages like homepage, listpage, 		details page.
+	- Style the pages with css.
+	- Add some basic functionality by JavaScript & then use TMDB Api to 	autogenerate movie lists & details.
+
+•Challenges Faced:
+	- Dealing and handling the API.
+
+•Solutions Implemented:
+	- Create HTML document to structure pages.
+	- Apply CSS styling to enhance the appearance of the webpages.
+	- Add JS and call API to give the final blow.
+
+•Learnings:
+	- Project provided an opportunity to gain hands on experience with APIs 	and their integration into the web.
+	- Learn about implementing search functionality enable users to find 	specific conent.
+
+•Project Update:
+
+	- After weeks of dedicated efforts, I am pleased to announce the 	successful completion of the OTT Platform clone project. This project aimed 	to replicate the functionality of a popular OTT streaming platform by 	leveraging API integration, responsive design & user-friendly navigation. 
